@@ -1,6 +1,6 @@
-# weather_app
+# MosamApp
 
-A new Flutter project.
+Weather app built with Flutter.
 
 ## Getting Started
 
